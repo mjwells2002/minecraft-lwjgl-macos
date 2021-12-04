@@ -11,8 +11,11 @@ and the use of minecraft on a m1 device without rosetta.
 ## how
 
 Step 1:
+
 Install MultiMC5
+
 Step 2:
+
 Install Java
 
 M1 devices: https://www.azul.com/downloads/?os=macos&architecture=arm-64-bit&package=jre
@@ -21,14 +24,17 @@ Intel devices: https://www.azul.com/downloads/?os=macos&architecture=x86-64-bit&
 Java 17 is required for minecraft 1.18
 
 Step 3:
+
 Create a new MultiMC profile
 
 Step 3.5:
+
 IMPORTANT:
 If you are planning to install Fabric/Forge you need to install it now. or it will break
 
 
 Step 4:
+
 In the version tab of MultiMC select LJGL 3.2.2 and click customize
 then click on the edit button
 replace the file it opens with one of the following
