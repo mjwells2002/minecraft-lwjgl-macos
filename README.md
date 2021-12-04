@@ -19,6 +19,7 @@ Step 2:
 Install Java
 
 M1 devices: https://www.azul.com/downloads/?os=macos&architecture=arm-64-bit&package=jre
+
 Intel devices: https://www.azul.com/downloads/?os=macos&architecture=x86-64-bit&package=jre
 
 Java 17 is required for minecraft 1.18
@@ -40,6 +41,7 @@ then click on the edit button
 replace the file it opens with one of the following
 
 M1 devices: [lwjgl-3.3.0-aarch64.json](lwjgl-3.3.0-aarch64.json)
+
 Intel devices: [lwjgl-3.3.0-X86-64.json](lwjgl-3.3.0-X86-64.json)
 
 Step 5:
